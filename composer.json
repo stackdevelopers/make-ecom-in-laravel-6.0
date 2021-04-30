@@ -9,7 +9,7 @@
         "dompdf/dompdf": "^0.8.3",
         "fideloper/proxy": "^4.0",
         "intervention/image": "^2.3",
-        "laravel/framework": "6.0.*",
+        "laravel/framework": "6.20.*",
         "laravel/helpers": "^1.1",
         "laravel/tinker": "^1.0",
         "maatwebsite/excel": "^3.1.0",
